@@ -1,0 +1,13 @@
+C:\Users\dinhu\OneDrive\Documentos\cursoSenac\modulo03\atividade-i\bin\Debug\netcoreapp3.1\atividade-i.exe
+C:\Users\dinhu\OneDrive\Documentos\cursoSenac\modulo03\atividade-i\bin\Debug\netcoreapp3.1\atividade-i.deps.json
+C:\Users\dinhu\OneDrive\Documentos\cursoSenac\modulo03\atividade-i\bin\Debug\netcoreapp3.1\atividade-i.runtimeconfig.json
+C:\Users\dinhu\OneDrive\Documentos\cursoSenac\modulo03\atividade-i\bin\Debug\netcoreapp3.1\atividade-i.runtimeconfig.dev.json
+C:\Users\dinhu\OneDrive\Documentos\cursoSenac\modulo03\atividade-i\bin\Debug\netcoreapp3.1\atividade-i.dll
+C:\Users\dinhu\OneDrive\Documentos\cursoSenac\modulo03\atividade-i\bin\Debug\netcoreapp3.1\atividade-i.pdb
+C:\Users\dinhu\OneDrive\Documentos\cursoSenac\modulo03\atividade-i\obj\Debug\netcoreapp3.1\atividade-i.csprojAssemblyReference.cache
+C:\Users\dinhu\OneDrive\Documentos\cursoSenac\modulo03\atividade-i\obj\Debug\netcoreapp3.1\atividade-i.AssemblyInfoInputs.cache
+C:\Users\dinhu\OneDrive\Documentos\cursoSenac\modulo03\atividade-i\obj\Debug\netcoreapp3.1\atividade-i.AssemblyInfo.cs
+C:\Users\dinhu\OneDrive\Documentos\cursoSenac\modulo03\atividade-i\obj\Debug\netcoreapp3.1\atividade-i.csproj.CoreCompileInputs.cache
+C:\Users\dinhu\OneDrive\Documentos\cursoSenac\modulo03\atividade-i\obj\Debug\netcoreapp3.1\atividade-i.dll
+C:\Users\dinhu\OneDrive\Documentos\cursoSenac\modulo03\atividade-i\obj\Debug\netcoreapp3.1\atividade-i.pdb
+C:\Users\dinhu\OneDrive\Documentos\cursoSenac\modulo03\atividade-i\obj\Debug\netcoreapp3.1\atividade-i.genruntimeconfig.cache

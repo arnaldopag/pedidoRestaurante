@@ -1,0 +1,16 @@
+classe itemPedido {
+	string descrição;
+	double valorUnitario;
+	int quantidade;
+}
+
+classe pedido{
+	
+private list itemPedido{
+	get{
+	}
+	set{
+	} 
+	return double total itens
+	pedido()????
+}
