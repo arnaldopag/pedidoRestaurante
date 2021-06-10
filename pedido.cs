@@ -1,18 +1,29 @@
 using System.Collections.Generic;
 namespace atividade_i
 {
-
-    public class pedido
+    public class Pedido
     {
+        private List<ItemPedido> ItemPedido;
 
-        public List<itemPedido> items = new List<itemPedido>();
-        public bool addItem(string descricao, double precoUni, int qtd)
+        public Pedido()
         {
-            items.Add(new itemPedido { descricao = descricao, precoUni = precoUni, qtd = qtd });
-            return true;
+            ItemPedido = new List<ItemPedido>();
         }
+        public void AddItemPedido(ItemPedido item)
+        {
+            ItemPedido.Add(item);
+        }
+        public double totalizador()
+        {
+            double total = 0d;
+            double soma = 0d;
+            foreach (var i in ItemPedido)
+            {
+                total = i.precoUni * i.qtd;
+                soma += total;
+            }
 
-
-
+            return soma;
+        }
     }
 }
