@@ -22,10 +22,18 @@ namespace atividade_i
                 qtd = Convert.ToInt32(Console.ReadLine());
 
 
-                
+                ItemPedido novoItemPedido = new ItemPedido(descricao, preco, qtd);
+                novoPedido.AddItemPedido(novoItemPedido);
+
+                Console.Write("Deseja Adicionais meis items S ou N: ");
+                fim = Convert.ToChar(Console.ReadLine());
+
 
             }while (fim == 's');
         
+
+            Console.WriteLine("Valor Total: " + novoPedido.totalizador());
+
         }
     
     }
